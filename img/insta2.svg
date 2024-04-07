@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="insta2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.19968799,-0.049922)"
+     style="stroke-width:1.4;stroke-dasharray:none"
+     inkscape:export-filename="instagram.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <rect
+       style="fill:none;fill-opacity:0.766372;stroke:#ffffff;stroke-width:1.4;stroke-linejoin:round;stroke-miterlimit:1000;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1"
+       width="26.808113"
+       height="24.861155"
+       x="2.7457099"
+       y="3.3946955"
+       ry="4.9422774"
+       rx="5.8907952" />
+    <path
+       style="fill:none;fill-opacity:0.766372;stroke:#ffffff;stroke-width:1.4;stroke-linejoin:round;stroke-miterlimit:1000;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path1"
+       sodipodi:type="arc"
+       sodipodi:cx="16.074886"
+       sodipodi:cy="15.450856"
+       sodipodi:rx="7.0229616"
+       sodipodi:ry="6.8482327"
+       sodipodi:start="0.14425917"
+       sodipodi:end="0.13992685"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="m 23.024898,16.435354 a 7.0229616,6.8482327 0 0 1 -7.9521,5.793662 7.0229616,6.8482327 0 0 1 -5.9500942,-7.747975 7.0229616,6.8482327 0 0 1 7.9392112,-5.8104458 7.0229616,6.8482327 0 0 1 5.967292,7.7353888 z" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.4;stroke-linejoin:round;stroke-miterlimit:1000;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path2"
+       sodipodi:type="arc"
+       sodipodi:cx="24.736349"
+       sodipodi:cy="8.1872072"
+       sodipodi:rx="1.902216"
+       sodipodi:ry="1.9271787"
+       sodipodi:start="0.14425917"
+       sodipodi:end="0.13992685"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="M 26.618806,8.4642572 A 1.902216,1.9271787 0 0 1 24.464927,10.094667 1.902216,1.9271787 0 0 1 22.853304,7.9142892 1.902216,1.9271787 0 0 1 25.003692,6.2791566 1.902216,1.9271787 0 0 1 26.619973,8.4559922 Z" />
+  </g>
+</svg>

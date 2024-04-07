@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Réservation</title>
+    <link rel="stylesheet" href="app2.css">
+</head>
+<body>
+    <header class="en-tete">
+        <nav class="nav-bar">
+            
+            <div class="titre-logo lien">
+                <div class="logo"><img src="/img/logo1.svg" alt="logo VIP Taxi"></div>
+                <div class="htitre">
+                    <a href="index.html">Accueil</a>
+                    <a href="Taxi.html">Taxi</a>
+                    <a href="Location.html">Location</a>
+                    <a href="Réservation.html">Réservation</a>
+                    <a href="Nos contact.html">Nos contacts</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main class="reserv">
+        <div class="dir">
+            <h1>Planifiez votre voyage sur VIP Taxi</h1>
+            <label for="liste">Départ</label>
+            <select name="liste" id="liste">
+                <option value="">Diego</option>
+            </select>
+
+            <label for="liste2">Arrivée</label>
+            <select name="liste" id="liste2">
+                <option value="">Ambilobe</option>
+                <option value="">Vohemar</option>
+                <option value="">Nosy-Be</option>
+                <option value="">Ambanja</option>
+                <option value="">Sambava</option>
+                <option value="">Antalaha</option>
+            </select>
+        </div>
+        <div class="info">
+            <form action="#">
+                <input type="text" placeholder="Nom">
+                <input type="text" placeholder="Adresse">
+                <input type="number" placeholder="Numéro de téléphone">
+            </form>
+        </div>
+        <div class="info bagage">
+            <form action="">
+                <input type="color" name="" id="">
+                <input type="number" placeholder="Masse du bagage (exemple : 15 kg)">
+                <input type="text" placeholder="Hauteur x largeur x longueur du bagage">
+            </form>
+        </div>
+        <div class="photoplace"><img src="img/place.svg" alt=""></div>
+        <div class="place">
+            <form action="">
+                <select name="liste3" id="liste3">
+                    <optgroup>
+                        <option value="">Devant</option>
+                        <option value="">Au milieu</option>
+                        <option value="">Derrière</option>
+                    </optgroup>
+                </select>
+                <input type="number" placeholder="Numéro de la place">
+                <label for="i1">Une seule personne</label>
+                <input type="radio" id="i1" name="personne">
+                <label for="i2">Deux</label>
+                <input type="radio" id="i2" name="personne">
+                <label for="i3">Supérieur à deux personnes</label>
+                <input type="radio" id="i3" name="personne">
+            </form>
+        </div>
+        <div class="bouton">Passer la réservation</div>
+    </main>
+    <footer class="foot">
+        <address>Rue Colbert Antsiranana</address>
+        <div class="contacts">+261 32 41 570 17</div>
+        <a href="#" class="facebook"><img src="img/facebook2.svg" alt="Facebook" width="32px" height="32px"></a>
+        <a href="#" class="instagram"><img src="img/insta2.svg" alt="Instagram" width="32px" height="32px"></a>
+        <div class="cont"><a href="#">danionandrasana@gmail.com</a></div>
+    </footer>
+</body>
+</html>

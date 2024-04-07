@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="66.570076mm"
+   height="70.164581mm"
+   viewBox="0 0 66.570076 70.164581"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-23.062317"
+       originy="-729.11455"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="stroke:#ebef17;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-23.062317,-729.11454)">
+    <path
+       style="fill:#ffffff;fill-opacity:0;stroke:#ebef17;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1000;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 24.572236,749.78084 c 0.237546,-9.26663 20.149234,-19.16636 20.149234,-19.16636 l 10.811785,12.28611 c 0,0 -11.808134,5.27892 -12.122306,10.64799 -0.290771,4.96915 6.524053,10.5739 9.894163,15.21653 4.640226,6.39232 7.005566,11.10742 13.859,11.15767 5.138825,0.0377 10.484155,-11.30323 10.484155,-11.30323 l 10.484154,11.13941 c 0,0 -9.525835,18.13118 -18.01964,18.01963 -22.052892,-0.28961 -46.105724,-25.9502 -45.540545,-47.99775 z"
+       id="path12"
+       sodipodi:nodetypes="accsssccaa"
+       inkscape:export-filename="nos contact.svg"
+       inkscape:export-xdpi="10.425306"
+       inkscape:export-ydpi="10.425306" />
+  </g>
+</svg>

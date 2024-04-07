@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="74.095322mm"
+   height="73.112717mm"
+   viewBox="0 0 74.095322 73.112717"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-33.228954"
+       originy="-63.534582"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="stroke:#ebef17;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-33.228955,-63.534578)">
+    <path
+       style="fill:#ffffff;fill-opacity:0;stroke:#ebef17;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1000;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 34.728761,99.599463 69.948967,65.034519 89.770571,84.856123 v -10.32034 h 9.992709 l 0.32763,17.69201 5.73352,7.207856 -5.56971,0.163814 V 134.98348 L 74.535783,134.81967 V 109.9198 l -14.251897,0.16382 v 24.89986 l -20.968309,0.16382 0.327631,-35.220206 z"
+       id="path1"
+       inkscape:export-filename="home.svg"
+       inkscape:export-xdpi="96.399048"
+       inkscape:export-ydpi="96.399048" />
+  </g>
+</svg>

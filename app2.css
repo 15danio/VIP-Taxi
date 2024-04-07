@@ -1,0 +1,303 @@
+@font-face {
+    font-family: "Poppins";
+    src: url(/asset/fonts/Poppins-Light.ttf);
+}
+@font-face {
+    font-family: "-h1-it";
+    src: url(/asset/fonts/Poppins-Regular.ttf);
+}
+body {
+    font-size: 1.5rem;
+    font-family: Poppins;
+    margin: 0;
+
+}
+header {
+    background: linear-gradient(to bottom, #000 ,#0008),url(img/istockphoto-467103541-1024x1024.jpg) no-repeat center/cover;
+    width: 100%;
+    height:30vh;
+}
+
+.titre-logo{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    margin: 0;
+}
+.htitre{    
+
+    padding: 0 10px;
+    margin-top: 20px;
+
+}
+.logo img{
+    width: 300%;
+    margin: 2px;
+}
+
+.logo{
+    margin: 5px;
+}
+
+.htitre a {
+    padding: 0 15px;
+    text-decoration: none;
+    color: #ebef45;
+    transition: .3s;
+
+}
+.htitre a:hover{
+    background: #ffffff56;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    transition: .2s;
+    box-shadow: 0px 0px 3px 1px;
+    letter-spacing: 2px;
+}
+
+.location{
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+.sidebar{
+    padding-left: 3px;
+    width: 95%;
+    height: 100%;
+    border-right: 1px solid #000;
+}
+.sidebar p,
+.sidebar h1{
+    font-size: 1.5rem;
+    font-family:sans-serif;
+}
+.sidebar p{
+    font-weight: 100;
+}
+.vehicule{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+.boite{
+    position: relative;
+    width:90%;
+    min-height: 380px;
+    border: 1px solid;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+.boite:hover{
+    transition: .3s;
+    transform: translateY(-5px);
+}
+
+.boite img{
+
+    width: 100%;
+    height: 80%;
+}
+.boite h1{
+    font-family: -h1-it;
+    font-size: 1.5rem;
+    font-weight: bold;
+    width: 20%;
+    height: 35px;
+    
+}
+.soutitr{
+    font-size: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    padding-left: 5px;
+    padding-bottom: 30px;
+}
+.soutitr p{
+    margin: 0;  
+}
+
+.plus{
+
+    position: absolute;
+    right: 10px ;
+    bottom: 10px;
+    border: 1px solid #000;
+    padding: 0 5px;
+    border-radius: 4px;
+}
+.plus:hover{
+    background: #ebef45;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+footer {
+    font-size: 1.2rem;
+    color: #fff;
+    border-radius: 5px;
+    display: flex;
+   flex-wrap: wrap;
+   align-items: stretch;
+   justify-content: space-evenly;
+    background: #000;
+    padding: 40px 5px;
+    width: 100%;
+}
+.contacts::before{
+    content: ' ';
+    width: 32px;
+    display: inline-block;
+    height: 32px;
+    vertical-align: middle;
+    background: url(/img/contact2.svg) center center/cover no-repeat;
+
+}
+
+.cont a::before {
+    content: ' ';
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+    background: url(/img/email12.svg) center center/cover no-repeat;
+}
+.cont a{
+    text-decoration: none;
+    color: #fff;
+}
+/* -------------------Nos contact------------------------- */
+
+
+.nos-contact {
+    color: #fff;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    width: 900px;
+    min-height: 500px;
+    margin: 35px auto;
+}
+.ecrire {
+    background: #262a33;
+    border-radius: 7px 0 0 7px;
+    padding: 30px 30px 0 30px;
+}
+form{
+    display: grid;
+    position: relative;
+}
+input,textarea{
+    font-family: Arial, Helvetica, sans-serif;
+    background: none;
+    border: 1px  solid gray;
+    margin-top: 5px;
+    box-sizing: none;
+    padding: 10px 2px;
+}
+textarea{
+    resize: none;
+    text-rendering: #fff;
+}
+.box2{
+    border-width:0 0 1px 0 ;
+    
+}
+.box1{
+    position: absolute;
+    background-color: #ebef45;
+    bottom: -50px;
+    font-weight: 700;
+    color: #000;
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+.information {
+    background: #1d1e22;
+    border-radius: 0 7px 7px 0;
+    padding: 30px 30px 0 30px;
+}
+
+.information p,#blanc{
+    font-size: 1.2rem;
+    color: #5a5b60;
+}
+span{
+    color: #fff;
+    font-weight: 100;
+}
+#blanc{
+    margin: 30px 0;
+}
+
+.test{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+}
+.test img{
+    width: 100%;
+    height: 100%;
+}
+
+/* -------------Réservation-------------- */
+/* Styles pour la page de réservation */
+
+.reserv {
+    padding: 20px;
+}
+
+.dir, .info, .bagage, .place {
+    margin-bottom: 20px;
+}
+
+.dir h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.dir label, .info label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="color"],
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.bouton {
+    background-color: #ebef45;
+    color: #000;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1.6rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.bouton:hover {
+    background-color: #ffeb3b;
+}

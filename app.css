@@ -1,0 +1,195 @@
+@font-face {
+    font-family: "Poppins";
+    src: url(/asset/fonts/Poppins-Light.ttf);
+}
+body {
+    font-size: 1.5rem;
+    font-family: Poppins;
+    margin: 0;
+}
+.mediaq , .lmedia{
+    display: none;
+}
+@media  screen and (max-width: 813px){
+    .lien{
+        display: grid;
+    }
+    .un{
+        position: fixed;
+        top: 0;
+        z-index: 4;  
+    }
+    .lmedia{
+        color: #ebef45;
+        font-size: 3rem;
+        margin: 5px;
+        margin: 25px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .htitre,.logo {
+        display: none;
+    }
+    .mediaq{
+        display: flex;
+    }
+    .mediaq img{
+        width: 60%;
+        padding: 20px;
+    }
+
+    .mtaxi{
+        padding-top: 20px;
+    }
+}
+    
+
+/* header */
+.un {
+    position: sticky;
+    background: linear-gradient(to bottom, #000 ,#0008),url(img/istockphoto-1285180944-612x612.jpg) no-repeat center/cover;
+    width: 100%;
+    height: 30vh;
+}
+.deux{
+    background: linear-gradient(to bottom, #000 ,#0004),url(img/TAXI\ background.jpg) no-repeat center/cover;
+    width: 100%;
+    height: 30vh;
+}
+
+.titre-logo{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    margin: 0;
+}
+.htitre{    
+
+    padding: 0 10px;
+    margin-top: 20px;
+
+}
+
+.logo img{
+    width: 300%;
+    margin: 2px;
+}
+
+.logo{
+    margin: 5px;
+}
+
+.htitre a {
+    padding: 0 15px;
+    text-decoration: none;
+    color: #ebef45;
+    transition: .3s;
+
+}
+.htitre a:hover{
+    background: #ffffff56;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    transition: .2s;
+    box-shadow: 0px 0px 3px 1px;
+    letter-spacing: 2px;
+}
+/* image defile */
+.scroll-container{
+    width: 100%;
+    overflow: hidden;
+}
+.scroll-content{
+    display: flex;
+}
+.scroll-content img{
+    width: 100%;
+}
+/* fin header */
+
+.milieu {
+    background: lightgrey;
+    padding: 20px;
+    margin: 20px 0;
+}
+footer {
+    font-size: 1.2rem;
+    color: #fff;
+    border-radius: 5px;
+    display: flex;
+   flex-wrap: wrap;
+   align-items: stretch;
+   justify-content: space-evenly;
+    background: #000;
+    padding: 40px 5px;
+    width: 100%;
+}
+.contacts::before{
+    content: ' ';
+    width: 32px;
+    display: inline-block;
+    height: 32px;
+    vertical-align: middle;
+    background: url(/img/contact2.svg) center center/cover no-repeat;
+
+}
+
+.cont a::before {
+    content: ' ';
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+    background: url(/img/email12.svg) center center/cover no-repeat;
+}
+.cont a{
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+/* ------------------TAXI------------------------- */
+.taxi-body{
+    
+}
+.box {
+    width: 80%;
+    height: 300px;
+    margin: 20px auto;
+    border-bottom: 2px solid #000;
+
+}
+.bajaj , 
+.decapotable,
+.quatre,
+.lanborgin{
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+.bajaj img, .decapotable img, .quatre img,.lanborgin img {
+    width: 95%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.part {
+    position: relative;
+}
+#bouton {
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    position: absolute;
+    right: 20px;
+    bottom: 5px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background: #fff;
+}
+#bouton:hover {
+    background: #ebef45;
+    border: none;
+
+}
+

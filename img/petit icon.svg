@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#0064a1;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Calque 2">
+    <rect
+       style="fill:#e9c6af;fill-opacity:1;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:55.7;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect7"
+       width="19.170046"
+       height="21.566303"
+       x="12.730109"
+       y="10.23401" />
+    <rect
+       style="fill:#ffccaa;fill-opacity:1;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:55.7;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect8"
+       width="21.216848"
+       height="22.464899"
+       x="-0.049921997"
+       y="0.049921997" />
+  </g>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:14.6667px;display:inline;fill:#d4aa00;fill-opacity:1;stroke-width:0.398825;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:55.7;stroke-dasharray:none;paint-order:markers fill stroke"
+       x="9.8392191"
+       y="8.4580631"
+       id="text6"
+       transform="matrix(0.91426129,0.39782056,-0.40016758,0.91965516,0,0)"
+       inkscape:transform-center-x="1.8471139"
+       inkscape:transform-center-y="-2.0468019"><tspan
+         id="tspan6"
+         x="9.8392191"
+         y="8.4580631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#d4aa00;stroke-width:0.398825"
+         sodipodi:role="line">VIP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;fill:#003a71;fill-opacity:1;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:55.7;stroke-dasharray:none;paint-order:markers fill stroke"
+       x="8.6759415"
+       y="19.383615"
+       id="text7"
+       transform="rotate(20.584582)"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         x="8.6759415"
+         y="19.383615">Taxi</tspan></text>
+  </g>
+</svg>
