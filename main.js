@@ -3,7 +3,7 @@ const content = document.querySelector('.scroll-content');
 const images = document.querySelectorAll('.scroll-content img');
 
 let scrollposition = 0;
-const speed = 10;
+const speed = 4.00;
 
 function scrollImage(){
     scrollposition += speed;
